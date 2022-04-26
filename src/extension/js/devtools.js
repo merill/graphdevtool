@@ -1,0 +1,1 @@
+chrome.devtools.panels.create("Graph Dev", null, "/html/panel.html", null);
